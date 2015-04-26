@@ -12,14 +12,26 @@ knit        : slidify::knit2slides
 ---
 
 ## Shiny Apps!
-This shiny app is designed to be an example of interactive code with R.  The page contains 3 tabs, 3 seperate examples
-of elegant data analysis possibilites with shiny.  By the way, this presentation is done in SLIDIFY which, it too 
+This shiny app is designed to be an example of interactive code with R.  The app page contains 3 tabs, 3 seperate examples
+of elegant data analysis possibilites with shiny.  
+
+Here is the link to my shiny app!
+https://sdaniel1.shinyapps.io/assignment/   
+
+and the git hub repo:
+https://github.com/dsiever/shinyApps
+
+My objective here, just like in the shiny app is to show some examples of data presentation.  The course requirement was
+for just 5 slides, I know there are 6 here.  I could not figure out how to remove the last blank slide, please don't 
+doc my points for this. 
+
+By the way, this presentation is done in SLIDIFY which, it too 
 has many elegant features, including the ablility to interact with R and write markdown.
 
 $$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
 
-Shiny apps and slidify are the new normal in data presentation
-<cite> Me</cite>
+"Shiny apps and slidify are the new normal in data presentation" 
+<cite> by: Me</cite>
 
 2. Use an empty line followed by three dashes to separate slides! 
 
