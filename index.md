@@ -3,8 +3,8 @@ title       : Shiny App of Examples!
 subtitle    : Slidifiy is R's version of Interactive "PowerPoint"
 author      : Happy Data Science Student 1
 job         : Improving my skills
-framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight.js  # {highlight.js, prettify, highlight}
+framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
@@ -27,7 +27,7 @@ for just 5 slides, I know there are 6 here -- I could not figure out how to remo
 By the way, this presentation is done in SLIDIFY which, it too has many elegant features, including the ablility to 
 interact with R and write markdown.
 
-$$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
+# $$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
 
 "Shiny apps and slidify are the new normal in data presentation" 
 <cite> by: Me</cite>
@@ -50,8 +50,6 @@ plot(x,y)
 
 2. When plotting, be aware of the size of the plot.  Adjust size by adding fig.width, and 
 fig.height to the r code chunk.
-
-
 
 --- .class #id 
 
