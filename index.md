@@ -21,20 +21,18 @@ https://sdaniel1.shinyapps.io/assignment/
 and the git hub repo:
 https://github.com/dsiever/shinyApps
 
-My objective here, just like in the shiny app is to show some examples of data presentation.  The course requirement was
-for just 5 slides, I know there are 6 here.  I could not figure out how to remove the last blank slide, please don't 
-doc my points for this. 
+My objective here, just like in the shiny app, is to show some examples of data presentation.  The course requirement was
+for just 5 slides, I know there are 6 here -- I could not figure out how to remove the last blank slide.
 
-By the way, this presentation is done in SLIDIFY which, it too 
-has many elegant features, including the ablility to interact with R and write markdown.
+By the way, this presentation is done in SLIDIFY which, it too has many elegant features, including the ablility to 
+interact with R and write markdown.
 
 $$\frac{-b \pm \sqrt{b^2 - 4 a c}}{2a}$$
 
 "Shiny apps and slidify are the new normal in data presentation" 
 <cite> by: Me</cite>
 
-2. Use an empty line followed by three dashes to separate slides! 
-
+Use an empty line followed by three dashes to separate slides! 
 
 --- .class #id 
 
@@ -78,11 +76,8 @@ qplot(wt, mpg, data = mtcars)
 
 ## Final Points
 
-1. Slidify makes interactive presenations a breeze.  The shiny app shown 
+1. Slidify makes interactive presenations a breeze.  The shiny app shown in the links above is the new normal in the way 
+data will be and should be presented now, and in the future.
 2. Incorporate R code, and charts and be on your way to a professional presenation that will help you deliver a confident message and a wonderful experience for your audience.
 
-<iframe width="400" height="225" frameborder="0"
-  src="http://www.google.com" >
-</iframe>
-
---- 
+--- .class #id 
