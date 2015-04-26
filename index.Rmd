@@ -3,8 +3,8 @@ title       : Shiny App of Examples!
 subtitle    : Slidifiy is R's version of Interactive "PowerPoint"
 author      : Happy Data Science Student 1
 job         : Improving my skills
-framework   : html5slides        # {io2012, html5slides, shower, dzslides, ...}
-highlighter : highlight  # {highlight.js, prettify, highlight}
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
 widgets     : [mathjax]            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
